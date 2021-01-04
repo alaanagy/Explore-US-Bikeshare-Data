@@ -25,7 +25,7 @@ The Chicago and New York City files also have the following two columns:
 * Gender
 * Birth Year
 
-                                                 Data for the first 10 rides in the new_york_city.csv file
+                Data for the first 10 rides in the new_york_city.csv file
 <img width="1076" alt="nyc-data" src="https://user-images.githubusercontent.com/49722916/103563746-fb812200-4ec5-11eb-9217-9ca8b3b1f233.png">
 
 ## Statistics Computed
